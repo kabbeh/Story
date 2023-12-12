@@ -1,0 +1,14 @@
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\Story.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\Story.AssemblyInfoInputs.cache
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\Story.AssemblyInfo.cs
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\Story.csproj.CoreCompileInputs.cache
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\bin\Debug\net7.0\Story.exe
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\bin\Debug\net7.0\Story.deps.json
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\bin\Debug\net7.0\Story.runtimeconfig.json
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\bin\Debug\net7.0\Story.dll
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\bin\Debug\net7.0\Story.pdb
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\Story.dll
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\refint\Story.dll
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\Story.pdb
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\Story.genruntimeconfig.cache
+C:\Users\kasper.sjovoll\Documents\programering\Story\Story\obj\Debug\net7.0\ref\Story.dll
